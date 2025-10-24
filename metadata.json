@@ -1,0 +1,5 @@
+{
+  "name": "HumanFlow: Visual Workflow Builder",
+  "description": "A visual workflow builder to design, manage, and track team tasks. Drag and drop tasks, assign them to people, and define dependencies to create a clear, actionable flowchart of your projects. Includes an AI image generator for creating task assets.",
+  "requestFramePermissions": []
+}
